@@ -1,0 +1,62 @@
+Bạn nghĩ bạn như thế nào, bạn sẽ trở thành người như thế đó
+
+<h2>1. Chúng ta không thể học tất cả mọi thứ</h2>
+Ngoài kia có rất nhiều công nghệ và học tất cả chúng là điều không thể.
+Lời khuyên là hãy tìm những combo phù hợp với bạn và bạn có thể làm tốt nó. Một ví dụ cho combo web development là MERN stack bao gồm : MongoDB,Express, React và Nodejs. Nó là sự lựa chọn tuyệt vời full stack nếu bạn yêu thích JS
+
+Một mô hình khác có thể kể đến ở đây là MEAN, trong đó React được thay thế bằng Angular (MERN => MEAN, R thay bằng A, React thay thế bằng Angular). Bạn cũng có thể lựa chọn một con đường khác ví dụ như PHP, MySQL và HTML, Css cơ bản cho front end. Ruby và Ruby on Rails cũng là một công nghệ tốt cho back end.
+
+Bất kể bạn chọn combo hay con đường nào, hãy dừng chân tại đó, đừng nhảy lung tung, hãy ở lại và master nó. Đừng đi tất cả các lựa chọn và chẳng giỏi lựa chọn nào cả. Bạn sẽ mãi đi luẩn quẩn như đi quanh cái vòng tròn
+
+<h2>2. Bạn vẫn có thể trở thành một developer, thậm chí nếu bạn không có bằng cấp</h2>
+
+Là một developer tự học, tôi đã thành công trong lĩnh vực này nhờ lao động chăm chỉ, kiên nhẫn, kiên định và tập trung cao độ.
+Không phải đến đại học không có nghĩa là mọi thứ tự học ở đây là dễ dàng. Sự thực là rất khó khăn, nhưng phần thưởng bạn nhận là sẽ là đáng giá.
+Bạn không thể đạt được bất cứ thứ gì nếu bạn bỏ cuộc. Bí mật là hãy cho nó thêm một lần nữa, cố gắng hơn mọi lúc, mọi thời điểm. Một lời khuyên cho bạn là, khi bạn cảm thấy dường như bạn đang ở đáy của vấn đề khó khăn, đó thường là xấu hiệu bạn chỉ còn vài bước nữa là có thể tới. Bạn phải tự nhủ là cho nó một cơ hội và một lần thử nữa, hãy biến khó khăn, trở ngại thành cơ hội
+
+<h2>3. Hãy trở thành chuyên gia trong việc tra google</h2>
+Lập trình là giải quyết vấn đề. Nếu bạn không thể tìm ra cách giải nó, hãy tra google và tìm ai đó biết lời giải và học từ đó, đó là con đường thông minh cho bạn khi học tập
+
+Đây là lời khuyên: tất cả các vấn đề coding bạn gặp phải đều đã có người gặp phải và giải nó trước bạn. Đừng cố gắng phát minh lại cái bánh xe, hãy học cách dùng các cái bánh xe đã phát minh
+
+<h2>4. Deadline</h2>
+Thật khó để ước lượng thời gian hoàn thành 1 project. Có một số cách hoặc một số chiến lược các công ty hay dùng để quản lý project và tiến độ. Phổ biến nhất theo quan điểm của tôi đó là Agile.
+
+Bất kể bạn liệt kê chi tiết quá trình phát triển project kỹ lưỡng đến đâu, vẫn sẽ luôn có những trở ngại trong lúc thực thi. Bất kể team bạn mạnh đến đây, từ BA đến QA, deadline vẫn có thể không chính xác và cần phải nới ra. Deadlines chỉ là do ước lượng, và trong hầu hết các trường hường, trong các công ty lớn, việc xây dựng một ứng dụng doanh nghiệp luôn cần phải nới thêm vài tháng, nó là điều chấp nhận được
+
+Nhưng với những dự án nhỏ, chủ doanh nghiệp rất khắt khe. Một trong những câu hỏi bạn sẽ hay được hỏi là "Bao nhiêu lâu thì code xong", nhiều chủ doanh nghiệp họ chẳng quan tâm đến quá trình bạn làm đâu, quan trọng là kết quả và thời gian bạn giao sản phẩm cho họ.
+
+Vì vậy hãy cẩn thận khi đưa cho họ deadlines or ngày bàn giao. Hãy cộng nới thời gian deadline của bạn ra để cho việc xử lý những sự cố phát sinh để debug nữa chớ. Lời khuyên là hãy nới deadline ra lâu lâu hơn 1 xíu, hãy làm khách hàng ngạc nhiên khi bạn giao hàng sớm , hơn là làm họ thất vọng khi bạn trễ deadline.
+
+<h2>5, Hãy phân bổ thời gian 60% cho debug, 40% coding</h2>
+Đây là lời khuyên chính xác nhất tôi từng có
+Tôi dành nhiều thời gian coding cho việc debug. Project gần đây nhất chúng tôi là là cho app android và chăm sóc sức khỏe. Chúng tôi sử dụng React Native và tôi là một front end dev.
+
+Trong vòng 1 tháng, việc code front end mất khoảng 10 ngày thì 20 ngày còn lại tôi đi debug. Nào là lỗi do dependencies, nào là lỗi do versions, (lắm lỗi quá tôi chả thèm buồn dịch vì nghĩ nó chán :v)
+
+Xây một cái gì đó là phần vui vẻ, trong khi debug là phần căng thẳng ghê. Nhưng nó là một phần của công việc và nó rất tốn thời gian...
+
+Một lời khuyên của tôi đó là khi gặp lỗi fix vài tiếng không ra, hãy thử nghỉ ngơi xíu. Làm một cái gì đó khác, giúp đầu óc bạn thư giãn hơn vì nhiều khi chính chúng ta là vấn đề chứ không phải code
+
+<h2>6. Đừng trả vờ hoặc cố gắng bạn biết tất cả</h2>
+Có rất nhiều công nghệ ngoài kia và bạn không cần học tất cả
+
+<h2>7. Đừng học thuộc code, hãy hiểu nó hoạt động như thế nào</h2>
+Bạn phải hiểu được tầm quan trọng của việc học và nắm vững những nền tảng trong lúc học công nghệ gì đó.
+
+Đầu tiên, bạn sẽ copy paste code từ các khóa học. Nó là ok thôi, miễn sao bạn phải đang hiểu những code bạn copy, nếu bạn chẳng hiểu thì bạn chẳng học được gì cả.
+
+Sau đó vài tháng, bạn có thể hiểu chúng nhiều hơn. Bạn bắt đầu quen với cú pháp và hiểu những nguyên lý của lập trình hoặc ngôn ngữ đó. Sau đó bạn nên học cách giải quyết vấn đề, tự bạn đưa ra lời giải cho vấn đề. Tự code lại project với code của bạn và lời giản của bạn thay vì copy code. 
+
+Hãy cứ thử chạy theo ý tưởng của mình thay vì copy ý tưởng và code người khác. Đừng sợ hãy trong việc tự mình đưa ra lời giản. Hãy cứ thử và sai, thử và sai cho đến khi những cái khó bạn sẽ thấy dễ dàng hơn. Đó chính là cách học tốt. Cách học này sẽ tốn thời gian nhưng nó hiệu quả trong học lập trình.
+
+<h2>8. Làm xong project nhớ ghi lại documentation</h2>
+Đoạn này hơi dài mà sắp đi làm rồi nên mình dịch tắt + theo văn của mk cho nó lầy lội.
+
+Đại loại là khi bạn code xong project, bạn ném đó, 6 tháng sau ô sếp của bạn bắt bạn nâng cấp hay thêm chức năng gì đó. Bạn chán nản mở code của mình 6 tháng trước ra và bạn chẳng hiểu gì cả. Bạn sẽ vừa đọc và vừa chửi :v
+
+Vì vậy hãy viết documentation hẳn hoi và tử tế vì biết đâu đấy trong tương lai, bạn sẽ thầm cảm ơn chính sự chỉnh chu của mình trong hôm nay
+
+Nguồn bài viết tiếng anh: https://medium.com/better-programming/how-to-think-like-a-senior-developer-8ccdf11953c
+
+Đầu tuần mất ngủ nên ngồi dịch bài + gõ phím tí cho mọi người ồn quá, không ngủ được cùng mình :v
